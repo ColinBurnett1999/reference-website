@@ -24,4 +24,24 @@
      - <b> marks a keyword.
      - <i> is used to mark another language, title or technical term.
      - <small> shrinks text, making it harder to read but also take up less space on the page.
+     6. Explain block Elements and also explain the list of block elements and why they are used from below:
+     - Block elements are elements that take up the entire row of the rows they occupy, and are as tall as their contents.
+     - 
+     -
+     - body
+     - Headers are marked with <header>, designating the section which appears at the top of the page.
+     - The navigation element (<nav>) is a block element containing links to navigate to other pages of the website.
+     - The main tag, <main>, designates the main contents of the page and tells the browser where it is.
+     - The section tag, <section>, designates a section of the page's content allowing the browser to recognize it. It also allows for easy navigation to that section.
+     - <article> marks on article on the page, allowing hte browser to recognize its location and for quick navigation to it if given an ID.
+     - The <div> tag marks a division in the page, acting as a container for elements.
+     - <aside> is an element used to contain content which is only somewhat relevant to the main content of the page.
+     - <footer> is used to contain elements at the bottom of the page.
+     - <span> is an inline container for content with no specific purpose.
+     - <small> is used to designate smaller text for things like copyright tags, descriptions for images/videos, etc.
+     7.Explain why accessibility is important and also explain the accessibility properties like:
+     - Accessibility is important because being able to use the internet is a crucial part of modern day-to-day life. Not making websites with those with impairments and disabilities in mind would prevent many people from using it and be unfair.
+     - Landmark roles are a set of roles that allow those with screen readers to jump from section to section of the page.
+     - Aria labels are labels that can be read by screen readers for those with disabilities that prevent them from reading the contents of the page normally.
+     - Image alternative texts are text specified for an image which is read by screen readers.
      
